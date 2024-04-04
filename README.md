@@ -1,4 +1,4 @@
-![Quantum Computer](https://github.com/sourceduty/Quantum/assets/123030236/341b81e4-286f-43bf-a0fb-8288b39c33f7)
+![Quantum Computer](https://github.com/sourceduty/Quantum/assets/123030236/c1337fbe-d29d-4293-8615-b494351e7d20)
 
 Quantum computing is an emerging field of computing that utilizes the principles of quantum mechanics to perform operations on data. Traditional computers use bits to represent information, which can exist in one of two states: 0 or 1. Quantum computers, on the other hand, use quantum bits, or qubits, which can exist in multiple states simultaneously due to a phenomenon called superposition. This allows quantum computers to perform many calculations simultaneously, potentially making them much more powerful than classical computers for certain types of problems.
 
