@@ -313,5 +313,99 @@ Superposition of qubits is a key resource in quantum algorithms such as Grover's
 <br>
 </details>
 
+<details><summary>Quantum Logic Gates</summary>
+<br>
+
+Quantum gates are fundamental building blocks in quantum computing, similar to logic gates in classical computing. They manipulate quantum bits (qubits) through various operations, shaping the foundation of quantum algorithms and circuits. Here's a list of common quantum gates presented in plain text:
+
+1. Pauli-X Gate (X) - Also known as the quantum NOT gate, it flips the state of a qubit (|0⟩ to |1⟩ and vice versa).
+
+2. Pauli-Y Gate (Y) - Rotates a qubit around the Y-axis of the Bloch sphere by π radians.
+
+3. Pauli-Z Gate (Z) - Also known as the phase-flip gate, it leaves the |0⟩ state unchanged but flips the phase of the |1⟩ state.
+
+4. Hadamard Gate (H) - Creates superpositions by transforming |0⟩ to (|0⟩ + |1⟩)/√2 and |1⟩ to (|0⟩ - |1⟩)/√2.
+
+5. S Gate (S) - A phase gate that applies a phase of π/2. It's also known as the sqrt(Z) gate because applying it twice is equivalent to applying a Z gate.
+
+6. T Gate (T) - Similar to the S gate, but applies a π/4 phase shift. Also known as the sqrt(S) gate.
+
+7. CNOT Gate (Controlled-NOT) - A two-qubit gate that flips the second (target) qubit if the first (control) qubit is |1⟩.
+
+8. SWAP Gate - Swaps the states of two qubits.
+
+9. CZ Gate (Controlled-Z) - Applies a Z gate to the second qubit only when the first qubit is in the |1⟩ state.
+
+10. CCNOT Gate (Toffoli Gate) - A three-qubit gate that flips the third qubit if the first two qubits are both in the |1⟩ state.
+
+11. RX Gate - Rotates a qubit around the X-axis of the Bloch sphere by a specified angle.
+
+12. RY Gate - Rotates a qubit around the Y-axis of the Bloch sphere by a specified angle.
+
+13. RZ Gate - Rotates a qubit around the Z-axis of the Bloch sphere by a specified angle.
+
+14. U3 Gate - A general single-qubit rotation gate with three parameters, encompassing all possible single-qubit gates.
+
+15. iSWAP Gate - Swaps two qubits and applies a square root of -1 phase to the swapped states.
+
+These gates are used to manipulate qubit states and are crucial for constructing quantum circuits and algorithms.
+
+<br>
+</details>
+
+<details><summary>Quantum Computing Math</summary>
+<br>
+
+Quantum computing leverages the principles of quantum mechanics to process information in ways that classical computing cannot. The fundamental math behind quantum computing involves linear algebra, complex numbers, and probability theory. Here's a basic overview:
+
+1. State Vectors: Quantum states are represented by state vectors in a complex vector space. For a single qubit, the state can be represented as \( |\psi\rangle = \alpha|0\rangle + \beta|1\rangle \), where \( |0\rangle \) and \( |1\rangle \) are basis states, and \( \alpha \) and \( \beta \) are complex coefficients that satisfy \( |\alpha|^2 + |\beta|^2 = 1 \).
+
+2. Superposition: A qubit can exist in a superposition of the \( |0\rangle \) and \( |1\rangle \) states, allowing quantum computers to perform computations on multiple states simultaneously.
+
+3. Entanglement: Quantum particles can become entangled, meaning the state of one (no matter how far apart) is dependent on the state of another. This is a key resource for quantum computing.
+
+4. Unitary Transformations: Quantum gates that manipulate qubits are represented by unitary matrices. A unitary transformation \( U \) maintains the norm of the state vector, with \( U^\dagger U = I \), where \( U^\dagger \) is the conjugate transpose of \( U \), and \( I \) is the identity matrix.
+
+5. Measurement: The process of measuring a quantum state collapses it to one of the basis states. The probability of collapsing to a particular state is determined by the squared magnitudes of the state vector's components.
+
+Basic Example: Quantum NOT Gate (X Gate)
+
+The quantum NOT gate, which flips the state of a qubit, can be represented by the Pauli-X matrix:
+
+\[ X = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} \]
+
+Applying the X gate to a qubit in state \( |0\rangle \) (represented as \( \begin{bmatrix} 1 \\ 0 \end{bmatrix} \)) flips it to \( |1\rangle \) (represented as \( \begin{bmatrix} 0 \\ 1 \end{bmatrix} \)).
+
+Advanced Example: Quantum Fourier Transform (QFT)
+
+The Quantum Fourier Transform is an essential algorithm for quantum computing, used in more complex algorithms like Shor's algorithm. It transforms a quantum state into its frequency domain, and is represented as:
+
+\[ QFT|j\rangle = \frac{1}{\sqrt{N}} \sum_{k=0}^{N-1} e^{2\pi ijk/N} |k\rangle \]
+
+where \( N = 2^n \) for \( n \) qubits, and \( |j\rangle \) and \( |k\rangle \) are computational basis states. The QFT's matrix representation involves complex exponential terms, making it significantly more complex than the operations used in basic quantum gates like the X gate.
+
+<br>
+</details>
+
+<details><summary>Benefits of Quantum Computing</summary>
+<br>
+
+1. Exponential Speedup for Specific Problems: Quantum computing can significantly outperform classical computing for certain problems, like factorizing large numbers or searching through unsorted databases, thanks to algorithms like Shor's and Grover's.
+
+2. Parallelism through Superposition: Qubits can exist in multiple states at once (superposition), allowing quantum computers to process many possibilities simultaneously, offering a form of parallel processing far beyond classical capabilities.
+
+3. Enhanced Simulation Capabilities: Quantum computers can simulate complex quantum systems far more efficiently than classical computers, benefiting fields such as materials science, chemistry, and physics.
+
+4. Advances in Cryptography: Quantum computing introduces challenges to classical encryption but also presents new secure methods like quantum key distribution, potentially transforming the field of cryptography.
+
+5. Optimization Solutions: Quantum algorithms could provide more efficient solutions to complex optimization problems encountered in logistics, finance, energy management, and other areas.
+
+6. Error Correction and Fault Tolerance: Research into quantum error correction is crucial for practical quantum computing, improving our understanding of quantum theory and information.
+
+7. Quantum Entanglement for Communication: Entanglement enables novel communication techniques like Quantum Key Distribution (QKD), offering potentially unbreakable security based on quantum mechanics.
+
+<br>
+</details>
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
