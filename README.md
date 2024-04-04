@@ -8,6 +8,7 @@ Quantum computers have the potential to revolutionize fields such as cryptograph
 
 Many companies, research institutions, and governments are investing heavily in quantum computing research and development, aiming to unlock its full potential and overcome the current technical challenges. Despite the progress made in recent years, widespread adoption of quantum computers for practical applications is still likely several years or even decades away.
 
+#
 ### Utilizing Quantum Computing Using Traditional Computers
 
 Utilizing quantum computing through a traditional computer involves accessing and interfacing with quantum computers remotely. Before delving into quantum computing, it's crucial to grasp the fundamentals of quantum mechanics and algorithms, alongside understanding the distinctions between quantum and classical computers.
@@ -26,10 +27,12 @@ Retrieving and analyzing results is the subsequent step post-program execution. 
 
 Iterative refinement is integral to the process. With experience, users can experiment with different algorithms, fine-tune programs, and explore the full potential of quantum hardware to address progressively intricate problems.
 
+#
 ### Quantum Framework
 
 Quantum computing frameworks, such as Qiskit by IBM, Cirq by Google, Forest SDK with PyQuil by Rigetti Computing, Microsoft Quantum Development Kit, and ProjectQ, offer comprehensive tools and libraries for quantum algorithm development and experimentation. These open-source frameworks support quantum circuit design, simulation, and execution on various quantum hardware platforms, including IBM Quantum, Google Quantum, Rigetti's QPUs, and Microsoft's Azure Quantum. Written primarily in Python, these frameworks provide high-level abstractions for quantum programming, facilitating research and development in the field of quantum computing by abstracting the complexities of quantum mechanics and hardware implementation. Users can choose a framework based on their specific requirements, preferred programming language, and compatibility with available quantum hardware.
 
+#
 ### Quantum Computing Statistics
 
 Average Qubits in Quantum Circuits:
