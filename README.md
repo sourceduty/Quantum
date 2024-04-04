@@ -26,6 +26,12 @@ Retrieving and analyzing results is the subsequent step post-program execution. 
 
 Iterative refinement is integral to the process. With experience, users can experiment with different algorithms, fine-tune programs, and explore the full potential of quantum hardware to address progressively intricate problems.
 
+### Quantum Framework
+
+Quantum computing frameworks, such as Qiskit by IBM, Cirq by Google, Forest SDK with PyQuil by Rigetti Computing, Microsoft Quantum Development Kit, and ProjectQ, offer comprehensive tools and libraries for quantum algorithm development and experimentation. These open-source frameworks support quantum circuit design, simulation, and execution on various quantum hardware platforms, including IBM Quantum, Google Quantum, Rigetti's QPUs, and Microsoft's Azure Quantum. Written primarily in Python, these frameworks provide high-level abstractions for quantum programming, facilitating research and development in the field of quantum computing by abstracting the complexities of quantum mechanics and hardware implementation. Users can choose a framework based on their specific requirements, preferred programming language, and compatibility with available quantum hardware.
+
+#
+
 <details><summary>Hardware for Quantum Computing</summary>
 <br>
 
@@ -66,7 +72,8 @@ Overall, building hardware for quantum computing requires a multidisciplinary ap
 <br>
 </details>
 
-### Quantum Circuit Diagrams
+<details><summary>Quantum Circuit Diagrams</summary>
+<br>
 
 In quantum computing, there are several types of diagrams used to represent quantum circuits and operations on qubits:
 
@@ -118,7 +125,11 @@ alice_1: ────┤ H ├──■─────────────�
 
 6. Time-Evolution Diagrams: Time-evolution diagrams illustrate the evolution of a quantum system over time under the action of various quantum operations. These diagrams show how the state of the qubits changes as the quantum computation progresses, providing insights into the dynamics of quantum algorithms.
 
-### Quantum Circuit Design
+<br>
+</details>
+
+<details><summary>Quantum Circuit Design</summary>
+<br>
 
 Quantum circuit design is a crucial aspect of quantum computing, involving the creation of circuits composed of quantum gates to perform specific computational tasks. Here's a general overview of quantum circuit design:
 
@@ -175,11 +186,11 @@ Overall, the diagram provides a visual representation of the quantum circuit, al
 
 Overall, quantum circuit design is a multidisciplinary field that combines aspects of quantum mechanics, computer science, and electrical engineering to develop efficient and reliable quantum algorithms and circuits. As quantum computing technology continues to advance, the importance of effective quantum circuit design will only grow.
 
-### Quantum Framework
+<br>
+</details>
 
-Quantum computing frameworks, such as Qiskit by IBM, Cirq by Google, Forest SDK with PyQuil by Rigetti Computing, Microsoft Quantum Development Kit, and ProjectQ, offer comprehensive tools and libraries for quantum algorithm development and experimentation. These open-source frameworks support quantum circuit design, simulation, and execution on various quantum hardware platforms, including IBM Quantum, Google Quantum, Rigetti's QPUs, and Microsoft's Azure Quantum. Written primarily in Python, these frameworks provide high-level abstractions for quantum programming, facilitating research and development in the field of quantum computing by abstracting the complexities of quantum mechanics and hardware implementation. Users can choose a framework based on their specific requirements, preferred programming language, and compatibility with available quantum hardware.
-
-### Qubit Superposition
+<details><summary>Qubit Superposition</summary>
+<br>
 
 Superposition of qubits is a fundamental concept in quantum computing that allows qubits to exist in multiple states simultaneously. In classical computing, a bit can be in one of two states: 0 or 1. In contrast, a qubit in a quantum computer can be in a superposition of both 0 and 1 states simultaneously.
 
@@ -191,7 +202,9 @@ An important property of superposition is that when a measurement is performed o
 
 Superposition of qubits is a key resource in quantum algorithms such as Grover's algorithm for unstructured search and Shor's algorithm for integer factorization, which are exponentially faster than their classical counterparts for certain problems. Harnessing superposition effectively is crucial for realizing the full potential of quantum computing.
 
-#
+<br>
+</details>
+
 <details><summary>States of Qubit Superposition</summary>
 <br>
 
