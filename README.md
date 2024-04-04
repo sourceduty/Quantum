@@ -26,7 +26,8 @@ Retrieving and analyzing results is the subsequent step post-program execution. 
 
 Iterative refinement is integral to the process. With experience, users can experiment with different algorithms, fine-tune programs, and explore the full potential of quantum hardware to address progressively intricate problems.
 
-### Hardware for Quantum Computing
+<details><summary>Hardware for Quantum Computing</summary>
+<br>
 
 Computer hardware for quantum computing is specialized and designed to manipulate and control qubits, the basic units of quantum information. There are various approaches to building quantum computers, each requiring specific hardware components tailored to their implementation. Some of the key hardware components used in different quantum computing architectures include:
 
@@ -61,6 +62,9 @@ Computer hardware for quantum computing is specialized and designed to manipulat
 - Classical interface components: Classical electronics are used to process and interpret the measurement results obtained from the quantum hardware.
 
 Overall, building hardware for quantum computing requires a multidisciplinary approach, combining expertise in quantum physics, condensed matter physics, electrical engineering, and materials science, among other fields. Additionally, as the field of quantum computing continues to advance, researchers are constantly developing new hardware innovations to improve qubit coherence, scalability, and error correction capabilities.
+
+<br>
+</details>
 
 ### Quantum Circuit Diagrams
 
