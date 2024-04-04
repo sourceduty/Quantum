@@ -30,6 +30,30 @@ Iterative refinement is integral to the process. With experience, users can expe
 
 Quantum computing frameworks, such as Qiskit by IBM, Cirq by Google, Forest SDK with PyQuil by Rigetti Computing, Microsoft Quantum Development Kit, and ProjectQ, offer comprehensive tools and libraries for quantum algorithm development and experimentation. These open-source frameworks support quantum circuit design, simulation, and execution on various quantum hardware platforms, including IBM Quantum, Google Quantum, Rigetti's QPUs, and Microsoft's Azure Quantum. Written primarily in Python, these frameworks provide high-level abstractions for quantum programming, facilitating research and development in the field of quantum computing by abstracting the complexities of quantum mechanics and hardware implementation. Users can choose a framework based on their specific requirements, preferred programming language, and compatibility with available quantum hardware.
 
+### Quantum Computing Statistics
+
+Average Qubits in Quantum Circuits:
+
+- Research and Development: Few qubits to a few dozen, due to technical challenges in maintaining qubit coherence and mitigating errors.
+- Commercial Quantum Computers: Tens to just over a hundred qubits. For example, IBM's quantum computers available for cloud access had up to 127 qubits.
+- Educational and Simulated Environments: Usually less than 30 qubits, due to computational limitations on classical hardware.
+
+Quantum Volume:
+
+- A measure of the overall capabilities and performance of a quantum computer, considering the number of qubits and their usability (entanglement, coherence, error rates, etc.).
+
+Error Rates:
+
+- Significant focus in quantum computing research, with rates for operations often ranging from 0.1% to a few percent, depending on the technology.
+
+Quantum Algorithms:
+
+- Require a large number of qubits and low error rates to be practical. For example, Shor's algorithm would require thousands of logical qubits to factor large numbers, which is beyond the current capabilities.
+
+Quantum Simulators:
+
+- Used to study quantum algorithms and circuits on classical computers. Simulating more than 30 qubits becomes extremely challenging with current classical computing resources.
+
 #
 
 <details><summary>Hardware for Quantum Computing</summary>
