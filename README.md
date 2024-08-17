@@ -498,7 +498,7 @@ Quantum System
      |-- Quantum State (unit of quantum information)
      |   (Superposition of 0 & 1)
      |
-     |-- Psi
+     |-- Psi (a wavefunction or state vector)
      |
      |-- Bloch Sphere
      |   (Geometric representation of state)
