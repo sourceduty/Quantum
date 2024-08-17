@@ -1,5 +1,9 @@
 ![Quantum Computer](https://github.com/sourceduty/Quantum/assets/123030236/0ce4f664-aaf3-4513-b065-583eb8aebbc1)
 
+> Quantum computing research with AI and traditional computers.
+
+#
+
 Quantum computing is an emerging field of computing that utilizes the principles of quantum mechanics to perform operations on data. Traditional computers use bits to represent information, which can exist in one of two states: 0 or 1. Quantum computers, on the other hand, use quantum bits, or qubits, which can exist in multiple states simultaneously due to a phenomenon called superposition. This allows quantum computers to perform many calculations simultaneously, potentially making them much more powerful than classical computers for certain types of problems.
 
 One of the key concepts in quantum computing is entanglement, where the state of one qubit is dependent on the state of another, even if they are physically separated. This property enables quantum computers to perform certain operations much more efficiently than classical computers.
@@ -58,6 +62,7 @@ Quantum Simulators:
 - Used to study quantum algorithms and circuits on classical computers. Simulating more than 30 qubits becomes extremely challenging with current classical computing resources.
 
 #
+### Notes
 
 <details><summary>Hardware for Quantum Computing</summary>
 <br>
@@ -407,6 +412,43 @@ where \( N = 2^n \) for \( n \) qubits, and \( |j\rangle \) and \( |k\rangle \) 
 <br>
 </details>
 
+<details><summary>Qubit Mediums</summary>
+<br>
+
+Atoms, ions, or molecules can be used as the physical medium to implement qubits in quantum computing. These physical systems are not qubits themselves but are used to represent qubits. Here's a breakdown of how different physical systems serve as the medium for qubits:
+
+Atoms:
+
+Individual atoms can be trapped and manipulated using lasers or magnetic fields to represent qubits. The quantum state of the atom, such as the energy levels of its electrons, can be used to encode information. The superposition of these states represents a qubit.
+
+Ions:
+
+Ions (charged atoms) are commonly used in a form of quantum computing called trapped ion quantum computing. Ions are held in place by electromagnetic fields, and their quantum states (like the spin or energy level) are used as qubits. Lasers are used to manipulate these states.
+
+Molecules:
+
+Molecules can also be used to implement qubits, particularly in systems where quantum states of molecular vibrations, rotations, or electronic states are exploited. These are less common but represent an area of research in quantum computing.
+
+Superconducting Circuits:
+
+In superconducting quantum computers, qubits are represented by the quantum states of superconducting circuits. These circuits are cooled to near absolute zero to achieve superconductivity, allowing the quantum effects to dominate. Superconducting qubits are one of the most advanced and widely used types in current quantum computers.
+
+Photons:
+
+Photons (particles of light) can also be used as qubits. Their polarization states or other quantum properties, such as phase, are used to represent quantum information. Photons are often used in quantum communication and certain types of quantum computing.
+
+Quantum Dots:
+
+Quantum dots are nanoscale semiconductor particles that can confine electrons. The spin or charge states of the electrons in quantum dots can represent qubits. These are typically used in solid-state quantum computing.
+
+Each of these physical systems serves as a medium to encode, manipulate, and read out quantum information. The choice of medium depends on the specific quantum computing technology being developed and the particular advantages and challenges of that technology.
+
+<br>
+</details>
+#
+
+> Alex: "*Making progress.*"
+
 #
 ### Related Links
 
@@ -417,6 +459,8 @@ where \( N = 2^n \) for \( n \) qubits, and \( |j\rangle \) and \( |k\rangle \) 
 [Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
