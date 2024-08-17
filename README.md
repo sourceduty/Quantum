@@ -460,7 +460,7 @@ Quantum computing represents a significant leap in the evolution of technology, 
 
 #
 
-> Alex: "*Making progress.*"
+> Alex: "*I understand quantum computations but I can't access the hardware yet.*"
 
 #
 ### Related Links
