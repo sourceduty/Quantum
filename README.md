@@ -479,11 +479,26 @@ These algorithms, due to their simplicity and small scale, can often be executed
 <details><summary>Quantum States</summary>
 <br>
 
-Superposition: a fundamental concept in quantum mechanics, referring to the ability of a quantum system to exist in multiple states or configurations simultaneously. Unlike classical systems, which are always in a single definite state, quantum systems can be in a combination of states at the same time until they are measured. Superposition of qubits is a key resource in quantum algorithms such as Grover's algorithm for unstructured search and Shor's algorithm for integer factorization, which are exponentially faster than their classical counterparts for certain problems.
+#### Superposition: a fundamental concept in quantum mechanics, referring to the ability of a quantum system to exist in multiple states or configurations simultaneously. Unlike classical systems, which are always in a single definite state, quantum systems can be in a combination of states at the same time until they are measured. Superposition of qubits is a key resource in quantum algorithms such as Grover's algorithm for unstructured search and Shor's algorithm for integer factorization, which are exponentially faster than their classical counterparts for certain problems.
 
-Quantum State: a quantum state is a mathematical entity that embodies the knowledge of a quantum system.
+#### Quantum State: a quantum state is a mathematical entity that embodies the knowledge of a quantum system.
 
 Qubit States: in a superposition of both 0 and 1 states simultaneously.
+
+#### Continuum of States
+
+Because α and β can take any complex values (subject to normalization), the qubit can exist in an infinite number of possible states that lie between |0⟩ and |1⟩. These states represent different superpositions, where the qubit is in a mix of |0⟩ and |1⟩, with varying probabilities.
+
+#
+#### Geometric Interpretation
+
+The state of a qubit can also be visualized on the Bloch Sphere, where:
+
+The poles of the sphere represent the basis states |0⟩ and |1⟩.
+
+Any point on the surface of the sphere represents a possible qubit state, which includes all possible superpositions.
+
+Thus, the states "between" |0⟩ and |1⟩ are not just intermediate states; they represent a continuous spectrum of possibilities, each defined by different values of α and β. These intermediate states are fundamental to the power of quantum computing, enabling operations that are impossible in classical systems.
 
 <br>
 </details>
