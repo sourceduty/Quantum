@@ -444,6 +444,18 @@ Quantum dots are nanoscale semiconductor particles that can confine electrons. T
 Each of these physical systems serves as a medium to encode, manipulate, and read out quantum information. The choice of medium depends on the specific quantum computing technology being developed and the particular advantages and challenges of that technology.
 
 <br>
+</details>4
+
+<details><summary>Quantum Systems</summary>
+<br>
+
+Quantum computing represents a significant leap in the evolution of technology, promising to solve problems far beyond the reach of classical computers. Among the pioneers in this field are IBM, Google, and D-Wave Systems, each taking unique approaches to harnessing quantum power. The IBM Q System One is one of the first commercial quantum computers, accessible via the cloud, offering businesses and researchers the ability to explore quantum computing's potential. Google's Sycamore chip made headlines by achieving quantum supremacy, demonstrating a quantum computer's ability to solve a problem faster than the most powerful classical supercomputers. D-Wave Systems, on the other hand, specializes in quantum annealing, a distinct approach optimized for solving specific optimization problems, setting it apart from the gate-based quantum computers used by IBM and Google. These innovations mark the beginning of a new era in computing, with the potential to revolutionize industries and research fields.
+
+- IBM Q System One: One of the first commercial quantum computers, available through the cloud.
+- Google’s Sycamore: Achieved quantum supremacy, demonstrating quantum computing's potential.
+- D-Wave Systems: Focuses on quantum annealing, a different approach from gate-based quantum computers, optimized for solving specific types of optimization problems.
+
+<br>
 </details>
 
 #
