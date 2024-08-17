@@ -479,11 +479,15 @@ These algorithms, due to their simplicity and small scale, can often be executed
 <details><summary>Quantum States</summary>
 <br>
 
-#### Superposition: a fundamental concept in quantum mechanics, referring to the ability of a quantum system to exist in multiple states or configurations simultaneously. Unlike classical systems, which are always in a single definite state, quantum systems can be in a combination of states at the same time until they are measured. Superposition of qubits is a key resource in quantum algorithms such as Grover's algorithm for unstructured search and Shor's algorithm for integer factorization, which are exponentially faster than their classical counterparts for certain problems.
+#### Superposition
 
-#### Quantum State: a quantum state is a mathematical entity that embodies the knowledge of a quantum system.
+A fundamental concept in quantum mechanics, referring to the ability of a quantum system to exist in multiple states or configurations simultaneously. Unlike classical systems, which are always in a single definite state, quantum systems can be in a combination of states at the same time until they are measured. Superposition of qubits is a key resource in quantum algorithms such as Grover's algorithm for unstructured search and Shor's algorithm for integer factorization, which are exponentially faster than their classical counterparts for certain problems.
 
-Qubit States: in a superposition of both 0 and 1 states simultaneously.
+#### Quantum State
+
+A quantum state is a mathematical entity that embodies the knowledge of a quantum system.
+
+Qubit States are in a superposition of both 0 and 1 states simultaneously.
 
 #### Continuum of States
 
