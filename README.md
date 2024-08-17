@@ -488,8 +488,8 @@ Qubit States: in a superposition of both 0 and 1 states simultaneously.
 <br>
 </details>
 
+<details><summary>Quantum States</summary>
 <br>
-</details>
 
 Qubit atom model.
 
