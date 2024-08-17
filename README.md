@@ -476,6 +476,50 @@ These algorithms, due to their simplicity and small scale, can often be executed
 <br>
 </details>
 
+<details><summary>Quantum States</summary>
+<br>
+
+Superposition: a fundamental concept in quantum mechanics, referring to the ability of a quantum system to exist in multiple states or configurations simultaneously. Unlike classical systems, which are always in a single definite state, quantum systems can be in a combination of states at the same time until they are measured. Superposition of qubits is a key resource in quantum algorithms such as Grover's algorithm for unstructured search and Shor's algorithm for integer factorization, which are exponentially faster than their classical counterparts for certain problems.
+
+Quantum State: a quantum state is a mathematical entity that embodies the knowledge of a quantum system.
+
+Qubit States: in a superposition of both 0 and 1 states simultaneously.
+
+<br>
+</details>
+
+<br>
+</details>
+
+Qubit atom model.
+
+Bloch Sphere
+
+         North Pole
+          |   0   |
+           \  |  /
+            \ | /
+             \|/
+             /|\
+            / | \
+           /  |  \
+          |   |   |
+          |---O---|-------> X-axis (Real part)
+          |   |   |
+           \  |  /
+            \ | /
+             \|/
+         South Pole
+          |   1   |
+          
+          Z-axis (Imaginary part)
+          
+- The surface of the sphere represents all possible pure states of a qubit.
+- Any point on the sphere corresponds to a specific state of the qubit, which can be a superposition of |0⟩ and |1⟩.
+
+<br>
+</details>
+
 #
 
 > Alex: "*I understand quantum computations but I can't access the limited hardware yet.*"
