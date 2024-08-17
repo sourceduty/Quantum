@@ -686,6 +686,10 @@ These limits are intended to provide a balance between practicality and learning
 [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 <br>
 [Quantum Simulator](https://github.com/sourceduty/Quantum_Simulator)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
+<br>
+[Theory](https://github.com/sourceduty/Theory)
 
 #
 
