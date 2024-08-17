@@ -457,6 +457,8 @@ Quantum computing represents a significant leap in the evolution of technology, 
 
 The cost of accessing IBM Quantum's computing resources can be considered expensive, especially for high-demand use cases. The "Pay-as-you-go" plan charges $1.60 per second, which can add up quickly for complex or prolonged computations. However, for businesses and researchers working on advanced quantum projects, these costs might be justifiable given the access to cutting-edge quantum technology. The expense depends on the specific needs and the scale of the quantum tasks being performed.
 
+600 seconds × $1.60 per second = $960.00 for 10 minutes
+
 <br>
 </details>
 
