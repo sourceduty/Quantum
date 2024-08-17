@@ -463,7 +463,6 @@ The cost of accessing IBM Quantum's computing resources can be considered expens
 
 Here are some examples of small quantum algorithms that would be relatively affordable to run on IBM's quantum platform:
 
-```
 Quantum Fourier Transform (QFT): A core component in many quantum algorithms, including Shor's algorithm. For small qubit numbers (e.g., 3-5 qubits), it can run quickly.
 
 Quantum Teleportation: A fundamental protocol demonstrating the transfer of quantum states. It's a simple three-qubit algorithm and is relatively inexpensive to execute.
@@ -471,7 +470,6 @@ Quantum Teleportation: A fundamental protocol demonstrating the transfer of quan
 Grover's Algorithm for Small Databases: Used for search problems. Running it on 3-4 qubits would be efficient and low-cost.
 
 Basic Quantum Gates (e.g., Hadamard, CNOT): Executing single-gate operations or small circuits involving these gates would take milliseconds to a few seconds, making them very affordable.
-```
 
 <br>
 
