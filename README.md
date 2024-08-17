@@ -459,6 +459,8 @@ The cost of accessing IBM Quantum's computing resources can be considered expens
 
 600 seconds × $1.60 per second = $960.00 for 10 minutes
 
+#
+
 <br>
 
 Here are some examples of small quantum algorithms that would be relatively affordable to run on IBM's quantum platform:
