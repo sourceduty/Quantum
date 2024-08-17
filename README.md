@@ -574,6 +574,8 @@ To visualize quantum waves, we often plot the real part, imaginary part, or the 
 
 > Alex: "*I understand quantum computations but I can't access the limited hardware yet.*"
 
+> "*Quantum is complicated but it's very computerized and also a scientific subject that's open to development.*"
+
 #
 ### Related Links
 
