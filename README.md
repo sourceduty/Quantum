@@ -485,7 +485,7 @@ Thus, the states "between" |0⟩ and |1⟩ are not just intermediate states; the
 <br>
 </details>
 
-<details><summary>Qubit Diagram</summary>
+<details><summary>Quantum and Qubit Diagrams</summary>
 <br>
 
 Quantum System Diagram
