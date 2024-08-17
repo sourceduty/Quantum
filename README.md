@@ -444,7 +444,7 @@ Quantum dots are nanoscale semiconductor particles that can confine electrons. T
 Each of these physical systems serves as a medium to encode, manipulate, and read out quantum information. The choice of medium depends on the specific quantum computing technology being developed and the particular advantages and challenges of that technology.
 
 <br>
-</details>4
+</details>
 
 <details><summary>Quantum Systems</summary>
 <br>
