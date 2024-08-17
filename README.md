@@ -488,8 +488,33 @@ Thus, the states "between" |0⟩ and |1⟩ are not just intermediate states; the
 <details><summary>Qubit Diagram</summary>
 <br>
 
-Qubit atom model.
+Quantum System Diagram
 
+```
+Quantum System
+ |
+ |-- Qubit Structure 
+     |
+     |-- Quantum State (unit of quantum information)
+     |   (Superposition of 0 & 1)
+     |
+     |-- Psi
+     |
+     |-- Bloch Sphere
+     |   (Geometric representation of state)
+     |
+     |-- Phase
+     |   (Relative phase between components)
+     |
+     |-- Amplitude
+         (Magnitude of probability amplitude)
+```
+
+<br>
+
+Qubit Bloch Sphere Diagram
+
+```
 Bloch Sphere
 
          North Pole
@@ -513,6 +538,7 @@ Bloch Sphere
           
 - The surface of the sphere represents all possible pure states of a qubit.
 - Any point on the sphere corresponds to a specific state of the qubit, which can be a superposition of |0⟩ and |1⟩.
+```
 
 <br>
 </details>
