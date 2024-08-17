@@ -520,7 +520,7 @@ Bloch Sphere
 <br>
 </details>
 
-<details><summary>Quantume Waves</summary>
+<details><summary>Quantum Waves</summary>
 <br>
 
 Quantum waves, often referred to in the context of wavefunctions, are a fundamental concept in quantum mechanics that describe the quantum state of a particle or system. Here’s a breakdown of what quantum waves are and how they relate to quantum mechanics:
