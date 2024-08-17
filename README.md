@@ -475,5 +475,9 @@ Quantum computing represents a significant leap in the evolution of technology, 
 <br>
 [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 
+#
+
+![Quantum Computer](https://github.com/user-attachments/assets/f36a34a4-4357-4308-99ea-7422873cd395)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
