@@ -525,13 +525,13 @@ Bloch Sphere
 
 Quantum waves, often referred to in the context of wavefunctions, are a fundamental concept in quantum mechanics that describe the quantum state of a particle or system. Here’s a breakdown of what quantum waves are and how they relate to quantum mechanics:
 
-1. Wavefunction (Ψ)
+Wavefunction (Ψ)
 
 The wavefunction, denoted as Ψ(x,t), is a complex-valued function that encodes the probabilities of finding a quantum system in various states. For a single particle, it depends on the position x and time t.
 
 The absolute square of the wavefunction, ∣Ψ(x,t)∣^2, gives the probability density of finding the particle at position x at time t.
 
-2. The Schrödinger Equation
+The Schrödinger Equation
 
 The evolution of a quantum wave is governed by the Schrödinger equation, a fundamental equation in quantum mechanics:
 
@@ -541,23 +541,23 @@ where i is the imaginary unit, ℏ is the reduced Planck constant, and Ĥ is the
 
 The Schrödinger equation describes how the wavefunction evolves over time.
 
-3. Superposition and Interference
+Superposition and Interference
 
 Quantum waves can exist in a superposition of states, meaning a particle can be in multiple states simultaneously. This is analogous to classical waves interfering with each other.
 
 When two or more wavefunctions overlap, they interfere, leading to constructive or destructive interference, depending on the phase difference between them.
 
-4. Wave-Particle Duality
+Wave-Particle Duality
 
 Quantum particles exhibit both wave-like and particle-like properties. The wave aspect is captured by the wavefunction, while the particle aspect is observed during measurement (e.g., when a particle’s position is determined).
 
 This duality is famously demonstrated in the double-slit experiment, where particles like electrons create an interference pattern when not observed, indicating wave-like behavior.
 
-5. Heisenberg Uncertainty Principle
+Heisenberg Uncertainty Principle
 
 The wave nature of particles leads to the Heisenberg uncertainty principle, which states that certain pairs of physical properties (like position and momentum) cannot be simultaneously known with arbitrary precision. The more precisely one property is known, the less precisely the other can be known.
 
-6. Quantum Harmonic Oscillator
+Quantum Harmonic Oscillator
 
 The quantum harmonic oscillator is a key example where quantum waves play a central role. It describes systems like vibrating molecules or quantized modes of the electromagnetic field (photons).
 
