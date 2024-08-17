@@ -475,7 +475,7 @@ Quantum computing represents a significant leap in the evolution of technology, 
 <br>
 [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 <br>
-[Quantum Similator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator)
+[Quantum Simulator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator)
 
 #
 
