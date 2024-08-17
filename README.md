@@ -522,8 +522,6 @@ Quantum System
 ```
 <br>
 
-```
-
 These algorithms, due to their simplicity and small scale, can often be executed in just a few seconds or less, keeping costs low.
 
 <br>
