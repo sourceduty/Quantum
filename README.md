@@ -115,19 +115,19 @@ A quantum computer system comprises several essential components, each playing a
 
 - Quantum interconnects facilitate communication within the system. High-frequency coaxial cables transmit signals between the control electronics and the quantum processor, while optical fibers are used in photonic quantum computers to transfer information via light.
 
-For networked quantum systems, quantum communication components such as quantum repeaters are used to extend the range of quantum communication. Quantum entanglement links are employed to connect different quantum processors over distances.
+- For networked quantum systems, quantum communication components such as quantum repeaters are used to extend the range of quantum communication. Quantum entanglement links are employed to connect different quantum processors over distances.
 
-The power supply and stabilization systems ensure the stability and precision of power delivery to the system. High precision power supplies are essential, and due to the extreme sensitivity of quantum computers to external vibrations, vibration isolation systems are necessary.
+- The power supply and stabilization systems ensure the stability and precision of power delivery to the system. High precision power supplies are essential, and due to the extreme sensitivity of quantum computers to external vibrations, vibration isolation systems are necessary.
 
-Cooling systems are indispensable for maintaining the required low temperatures for the quantum processor. A dilution refrigerator typically cools the quantum processor to millikelvin temperatures, with helium liquefiers providing the necessary cooling gases.
+- Cooling systems are indispensable for maintaining the required low temperatures for the quantum processor. A dilution refrigerator typically cools the quantum processor to millikelvin temperatures, with helium liquefiers providing the necessary cooling gases.
 
-The infrastructure housing the quantum computer must be carefully controlled. A quantum lab environment, often shielded from electromagnetic interference, is essential, along with rack systems to house control electronics and classical computing interfaces.
+- The infrastructure housing the quantum computer must be carefully controlled. A quantum lab environment, often shielded from electromagnetic interference, is essential, along with rack systems to house control electronics and classical computing interfaces.
 
-The software stack in quantum computing includes quantum programming languages such as Qiskit, Cirq, or Rigetti’s Quil. It also encompasses software libraries for implementing quantum algorithms like Shor's, Grover's, or quantum machine learning.
+- The software stack in quantum computing includes quantum programming languages such as Qiskit, Cirq, or Rigetti’s Quil. It also encompasses software libraries for implementing quantum algorithms like Shor's, Grover's, or quantum machine learning.
 
-Networking equipment is necessary for distributed quantum computing, with classical network interfaces connecting multiple quantum computers or linking them to classical computing resources. Quantum network interfaces are used for entangling qubits across different quantum processors.
+- Networking equipment is necessary for distributed quantum computing, with classical network interfaces connecting multiple quantum computers or linking them to classical computing resources. Quantum network interfaces are used for entangling qubits across different quantum processors.
 
-Finally, visualization and analysis tools play a critical role in quantum computing. Quantum state visualizers allow for the visualization of quantum states, such as through Bloch sphere representations. Circuit simulators enable the simulation of quantum circuits before they are executed on actual hardware.
+- Visualization and analysis tools play a critical role in quantum computing. Quantum state visualizers allow for the visualization of quantum states, such as through Bloch sphere representations. Circuit simulators enable the simulation of quantum circuits before they are executed on actual hardware.
 
 This comprehensive list of components ensures that quantum computations are performed with the necessary precision and reliability, supporting the advancement of quantum technology.
 
