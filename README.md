@@ -650,6 +650,22 @@ Quantum Entanglement
 <br>
 </details>
 
+<details><summary>ChatGPT Quantum Simulator Limits</summary>
+<br>
+
+Number of qubits: Typically up to 10 qubits can be simulated comfortably depending on the complexity of the circuit and the available computational resources. For larger simulations, performance may degrade significantly.
+
+Quantum operations: Standard quantum gates (X, Y, Z, H, CNOT, etc.) can be applied. Multi-qubit gates are supported but may have performance limitations as the number of qubits increases.
+
+State vector size: The state vector grows exponentially with the number of qubits (2^n). This can lead to memory and computational constraints, particularly for n > 15.
+
+Simulation time: The time required for simulation increases exponentially with the number of qubits. Simple circuits may run quickly, but complex circuits with many qubits may require significant computational time.
+
+These limits are intended to provide a balance between practicality and learning while simulating quantum circuits in a Python environment.
+
+<br>
+</details>
+
 #
 
 > Alex: "*I understand quantum computations but I can't access the limited hardware yet.*"
