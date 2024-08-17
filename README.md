@@ -455,6 +455,8 @@ Quantum computing represents a significant leap in the evolution of technology, 
 - Google’s Sycamore: Achieved quantum supremacy, demonstrating quantum computing's potential.
 - D-Wave Systems: Focuses on quantum annealing, a different approach from gate-based quantum computers, optimized for solving specific types of optimization problems.
 
+The cost of accessing IBM Quantum's computing resources can be considered expensive, especially for high-demand use cases. The "Pay-as-you-go" plan charges $1.60 per second, which can add up quickly for complex or prolonged computations. However, for businesses and researchers working on advanced quantum projects, these costs might be justifiable given the access to cutting-edge quantum technology. The expense depends on the specific needs and the scale of the quantum tasks being performed.
+
 <br>
 </details>
 
