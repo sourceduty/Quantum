@@ -461,8 +461,6 @@ The cost of accessing IBM Quantum's computing resources can be considered expens
 
 #
 
-<br>
-
 Here are some examples of small quantum algorithms that would be relatively affordable to run on IBM's quantum platform:
 
 Quantum Fourier Transform (QFT): A core component in many quantum algorithms, including Shor's algorithm. For small qubit numbers (e.g., 3-5 qubits), it can run quickly.
@@ -472,57 +470,6 @@ Quantum Teleportation: A fundamental protocol demonstrating the transfer of quan
 Grover's Algorithm for Small Databases: Used for search problems. Running it on 3-4 qubits would be efficient and low-cost.
 
 Basic Quantum Gates (e.g., Hadamard, CNOT): Executing single-gate operations or small circuits involving these gates would take milliseconds to a few seconds, making them very affordable.
-
-<br>
-
-#
-
-Example Quantum System Diagram
-
-```
-Quantum System
-|
-|-- Quantum State (|ψ⟩)
-|   |
-|   |-- Superposition
-|   |-- Entanglement
-|   |-- Quantum Bits (Qubits)
-|
-|-- Quantum Gates
-|   |
-|   |-- Single Qubit Gates
-|   |-- Multi-Qubit Gates
-|   |-- Measurement
-|
-|-- Quantum Circuit
-|   |
-|   |-- Input Qubits
-|   |-- Quantum Gates (sequence)
-|   |-- Output Qubits
-|
-|-- Quantum Algorithms
-|   |
-|   |-- Shor's Algorithm
-|   |-- Grover's Algorithm
-|   |-- Quantum Fourier Transform
-|
-|-- Quantum Hardware
-|   |
-|   |-- Quantum Processor
-|   |-- Quantum Error Correction
-|   |-- Quantum Decoherence
-|
-|-- Quantum Measurement
-|   |
-|   |-- Collapsing Quantum States
-|   |-- Probability Amplitudes
-|
-|-- Quantum Communication
-|   |
-|   |-- Quantum Teleportation
-|   |-- Quantum Cryptography
-```
-<br>
 
 These algorithms, due to their simplicity and small scale, can often be executed in just a few seconds or less, keeping costs low.
 
