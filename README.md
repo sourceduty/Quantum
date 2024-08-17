@@ -505,6 +505,20 @@ Quantum System
 |   |-- Quantum Cryptography
 ```
 
+Here are some examples of small quantum algorithms that would be relatively affordable to run on IBM's quantum platform:
+
+```
+Quantum Fourier Transform (QFT): A core component in many quantum algorithms, including Shor's algorithm. For small qubit numbers (e.g., 3-5 qubits), it can run quickly.
+
+Quantum Teleportation: A fundamental protocol demonstrating the transfer of quantum states. It's a simple three-qubit algorithm and is relatively inexpensive to execute.
+
+Grover's Algorithm for Small Databases: Used for search problems. Running it on 3-4 qubits would be efficient and low-cost.
+
+Basic Quantum Gates (e.g., Hadamard, CNOT): Executing single-gate operations or small circuits involving these gates would take milliseconds to a few seconds, making them very affordable.
+```
+
+These algorithms, due to their simplicity and small scale, can often be executed in just a few seconds or less, keeping costs low.
+
 <br>
 </details>
 
