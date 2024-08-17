@@ -738,6 +738,8 @@ While the idea of neuroquantum science and computing is gaining interest, it rem
 [Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
 <br>
 [Theory](https://github.com/sourceduty/Theory)
+<br>
+[Neuroquantum Simulator](https://chatgpt.com/g/g-srlpn9o6e-neuroquantum-simulator)
 
 #
 
