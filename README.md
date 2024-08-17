@@ -575,6 +575,7 @@ To visualize quantum waves, we often plot the real part, imaginary part, or the 
 
 To understand and work with quantum computing, a specific notation has been developed, which includes representations for quantum states, quantum gates, and quantum circuits. This notation is crucial for describing the behavior and manipulation of qubits in quantum algorithms.
 
+```
 Quantum States and Qubits
 
 |0⟩  - Ket notation for a qubit in the zero state
@@ -612,6 +613,7 @@ Quantum Entanglement
 |Φ-⟩ = (1/√2) * (|00⟩ - |11⟩)
 |Ψ+⟩ = (1/√2) * (|01⟩ + |10⟩)
 |Ψ-⟩ = (1/√2) * (|01⟩ - |10⟩)
+```
 
 <br>
 </details>
