@@ -460,6 +460,52 @@ The cost of accessing IBM Quantum's computing resources can be considered expens
 600 seconds × $1.60 per second = $960.00 for 10 minutes
 
 <br>
+
+```
+Quantum System
+|
+|-- Quantum State (|ψ⟩)
+|   |
+|   |-- Superposition
+|   |-- Entanglement
+|   |-- Quantum Bits (Qubits)
+|
+|-- Quantum Gates
+|   |
+|   |-- Single Qubit Gates
+|   |-- Multi-Qubit Gates
+|   |-- Measurement
+|
+|-- Quantum Circuit
+|   |
+|   |-- Input Qubits
+|   |-- Quantum Gates (sequence)
+|   |-- Output Qubits
+|
+|-- Quantum Algorithms
+|   |
+|   |-- Shor's Algorithm
+|   |-- Grover's Algorithm
+|   |-- Quantum Fourier Transform
+|
+|-- Quantum Hardware
+|   |
+|   |-- Quantum Processor
+|   |-- Quantum Error Correction
+|   |-- Quantum Decoherence
+|
+|-- Quantum Measurement
+|   |
+|   |-- Collapsing Quantum States
+|   |-- Probability Amplitudes
+|
+|-- Quantum Communication
+|   |
+|   |-- Quantum Teleportation
+|   |-- Quantum Cryptography
+```
+
+<br>
 </details>
 
 #
