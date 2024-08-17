@@ -567,10 +567,6 @@ Visualization of Quantum Waves
 
 To visualize quantum waves, we often plot the real part, imaginary part, or the probability density ∣Ψ(x,t)∣^2 of the wavefunction.
 
-Example: Quantum Wave Simulation
-
-Here’s an example of a simple quantum wave simulation for a free particle in one dimension. This can be represented by a Gaussian wave packet.
-
 <br>
 </details>
 
