@@ -570,6 +570,52 @@ To visualize quantum waves, we often plot the real part, imaginary part, or the 
 <br>
 </details>
 
+<details><summary>Quantum Science Notation</summary>
+<br>
+
+To understand and work with quantum computing, a specific notation has been developed, which includes representations for quantum states, quantum gates, and quantum circuits. This notation is crucial for describing the behavior and manipulation of qubits in quantum algorithms.
+
+Quantum States and Qubits
+
+|0⟩  - Ket notation for a qubit in the zero state
+|1⟩  - Ket notation for a qubit in the one state
+|ψ⟩  - General quantum state (superposition)
+
+Superposition
+
+|ψ⟩ = α|0⟩ + β|1⟩  - A qubit in superposition, where α and β are complex numbers
+
+Quantum Gates
+
+I = [[1, 0], [0, 1]]  - Identity gate
+X = [[0, 1], [1, 0]]  - Pauli-X gate (NOT gate)
+Y = [[0, -i], [i, 0]]  - Pauli-Y gate
+Z = [[1, 0], [0, -1]]  - Pauli-Z gate
+H = (1/√2) * [[1, 1], [1, -1]]  - Hadamard gate
+CNOT = [[1, 0, 0, 0], [0, 1, 0, 0], [0, 0, 0, 1], [0, 0, 1, 0]]  - Controlled-NOT gate
+
+Quantum Circuits
+
+|0⟩ --[H]--•--[H]--|0⟩  - Bell state preparation with Hadamard and CNOT gates
+            |
+|0⟩ --[H]--X--[H]--|1⟩
+
+Measurement
+
+⟨ψ|ψ⟩ = 1  - Normalization condition for quantum states
+⟨0|ψ⟩ = α  - Probability amplitude for the state |0⟩
+⟨1|ψ⟩ = β  - Probability amplitude for the state |1⟩
+
+Quantum Entanglement
+
+|Φ+⟩ = (1/√2) * (|00⟩ + |11⟩)  - Bell state (maximally entangled state)
+|Φ-⟩ = (1/√2) * (|00⟩ - |11⟩)
+|Ψ+⟩ = (1/√2) * (|01⟩ + |10⟩)
+|Ψ-⟩ = (1/√2) * (|01⟩ - |10⟩)
+
+<br>
+</details>
+
 #
 
 > Alex: "*I understand quantum computations but I can't access the limited hardware yet.*"
